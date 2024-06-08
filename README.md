@@ -8,5 +8,6 @@ mvn clean install
 ```
 Compiled on java 21
 
-Refer [this blog](https://medium.com/@satviknema/implementing-a-bloom-filter-in-java-from-scratch-878976f3e530) for a detailed explanation for how it works 
+Refer [this blog](https://medium.com/@satviknema/implementing-a-bloom-filter-in-java-from-scratch-878976f3e530) for a detailed explanation for how it works
+
 ![bloom_filter.png](bloom_filter.png)
